@@ -1,0 +1,54 @@
+/*default tags*/
+body, div, header, aside, footer {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: #777;
+
+}
+
+#wrapper {
+    margin: auto;
+    background-color:#ebebeb;
+    width: 920px;
+    padding: 10px;
+    overflow: hidden;
+
+}
+header {
+    background-color: #ebebeb;
+    height: 100px;
+    margin: auto;
+
+}
+
+#contentContainer {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px
+    
+
+}
+footer {
+    background-color: #ebebeb;
+    height: 100px;
+
+}
+
+#articleContainer {
+    background-color:#ebebeb;
+    width: 66%;
+    height: 300px;
+    float: left;
+
+}
+
+aside {
+    background-color: #ebebeb;
+    width: 33%;
+    height: 300px;
+    float: right;
+
+}
